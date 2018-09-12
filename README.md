@@ -25,3 +25,9 @@ game but did not have a dreidel on me.
 
 # License
 [DO WHAT THE FUCK YOU WANT TO BUT DON'T BE A DICK PUBLIC LICENSE](http://mens.ly/LICENSE.txt)
+
+# Download
+
+[APK](http://mens.ly/files/dreidel.apk) from [mens.ly](http://mens.ly)
+
+Google Play ~~Coming Soon~~ lolno
