@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             }
             val threeInARow = when(letter) {
                 'ש' -> "You and the other two share into the cup until its full"
-                'ה' -> "You and the other two have a drink"
+                'ה' -> "Everyone in the game has a drink"
                 'ג' -> "You and the other two remove an item of clothing"
                 'נ' -> "You and the other two finish your drinks"
                 else -> "Fuck it mensly made a bug"
