@@ -14,7 +14,7 @@ A full-cup ש counts as a ג and an empty-cup ג counts as a ש.
 * Three ש's in a row - Those three pour into the cup until it is full or their drink is empty
 * Three ג's in a row - Those three remove an item of clothing each
 
-Game ends when someone vomits or gets naked, players swapping in and out is fine.
+Game ends when someone vomits or gets naked or engaged, players swapping in and out is fine.
 
 No scarves allowed.
 
