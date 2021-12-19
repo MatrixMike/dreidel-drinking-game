@@ -8,8 +8,8 @@ import android.widget.TextView
 import java.util.Random
 
 class MainActivity : AppCompatActivity() {
-    var count = 0
-    var lastLetter = '?'
+    private var count = 0
+    private var lastLetter = '?'
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
